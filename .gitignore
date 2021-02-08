@@ -1,3 +1,6 @@
+### Logs
+*.log
+
 ### Node template
 node_modules/
 npm-debug.log*
